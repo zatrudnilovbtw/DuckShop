@@ -342,7 +342,7 @@ header{
     width: 337px;
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 8px;
 }
 
 .info > div {
@@ -397,7 +397,6 @@ header{
     font-size: 15px;
     font-weight: 600;
     border-radius: 8px;
-    margin-top: 12px;
     cursor: pointer;
 }
 
@@ -815,7 +814,7 @@ header{
     .info{
         width: 100%;
         height: auto;
-        gap: 8px;
+        gap: 8  px;
     }
     
     .input-form{
